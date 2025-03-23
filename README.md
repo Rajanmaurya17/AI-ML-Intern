@@ -14,7 +14,7 @@ A Streamlit-based AI chatbot for assisting users with talent scouting.
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/your-repo/talentscout_chatbot.git
+   git clone https://github.com/rajanmaurya17/AI-ML-Intern/talentscout_chatbot.git
    cd talentscout_chatbot
 
 python -m venv venv
